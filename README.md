@@ -6,4 +6,4 @@
 
 > Разрывная XD Кекный Кек Лол Рофл хаахахах 
 
-![JavaScript](https://img.shields.io/badge/JavaScript-JS%20-blueviolet)
+![JavaScript](https://img.shields.io/badge/JavaScript-JS%20-blueviolet?style=for-the-badge&logo=appveyor)
