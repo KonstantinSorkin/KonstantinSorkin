@@ -2,6 +2,6 @@
 
 Этот текст я посвещаю всем терранам...
 
-[link text](http://dev.nodeca.com)
+[MY TWICH BITCH](https://www.twitch.tv/ryriksc2)
 
 > Разрывная XD Кекный Кек Лол Рофл хаахахах 
