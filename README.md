@@ -5,3 +5,5 @@
 [MY TWICH BITCH](https://www.twitch.tv/ryriksc2)
 
 > Разрывная XD Кекный Кек Лол Рофл хаахахах 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-JS%20-blueviolet)
